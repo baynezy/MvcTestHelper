@@ -14,6 +14,8 @@
     <tags>ASP.Net MVC Testing</tags>
 		<dependencies>
 			<dependency id="Microsoft.AspNet.Mvc" version="4" />
+			<dependency id="Moq" version="4" />
+			<dependency id="NUnit" version="3" />
 		</dependencies>
   </metadata>
 </package>
